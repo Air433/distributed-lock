@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.fate.cloud.distributed.lock.core.redis.RedisTool,\
+  org.fate.cloud.distributed.lock.config.RedisConfig,\
+  org.fate.cloud.distributed.lock.core.factory.DistributedFactory
